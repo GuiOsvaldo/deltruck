@@ -1,0 +1,3 @@
+# transportadoraCreateSchema/schemas/__init__.py
+
+from .transportadoraCreateSchema import TransportadoraCreateSchema
